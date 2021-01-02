@@ -10,7 +10,7 @@ The NER system is built upon [CLUENER2020](https://github.com/CLUEbenchmark/CLUE
 
 ## Citation
     @inproceedings{hong2021smart,
-      title     = {SMART: A Situation Model for Algebra Story Problems via Attributed Grammar](https://arxiv.org/pdf/2012.14011.pdf},
+      title     = {[SMART: A Situation Model for Algebra Story Problems via Attributed Grammar](https://arxiv.org/pdf/2012.14011.pdf},
       author    = {Hong, Yining and Li, Qing and Gong, Ran and Ciao, Daniel and Huang, Siyuan and Zhu, Song-Chun},
       booktitle = {Proceedings of the The Thirty-Fifth AAAI Conference on Artificial Intelligence, {AAAI-21}},            
       year      = {2021}
