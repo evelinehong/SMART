@@ -1,10 +1,7 @@
-This repository contains the datasets and baseline models for the AAAI2021 accepted paper:
+This repository contains the datasets for the AAAI2021 accepted paper:
 > Yining Hong, Qing Li, Ran Gong, Daniel Ciao, Siyuan Huang and Song-Chun Zhu
 > [SMART: A Situation Model for Algebra Story Problems via Attributed Grammar](https://arxiv.org/pdf/2012.14011.pdf)
 > AAAI2021. 
-
-We also release part of the codes. However, we decide to keep most of the codes classified due to privacy concerns. \
-The NER system is built upon [CLUENER2020](https://github.com/CLUEbenchmark/CLUENER2020).
 
 ```
 
